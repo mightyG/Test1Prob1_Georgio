@@ -1,0 +1,23 @@
+commit 180c7f1d8e9b00ac7726e0e0d791f46abc4ee8b4 (HEAD -> master, origin/master)
+Author: Georgio Sayegh <mightyg@Georgios-MacBook-Pro.local>
+Date:   Wed Mar 14 21:41:48 2018 +0200
+
+    alias example text file added
+
+commit 509ee62b312e31f5024b00a8468c8e2ae5b9002e
+Author: Georgio Sayegh <mightyg@Georgios-MacBook-Pro.local>
+Date:   Wed Mar 14 21:25:05 2018 +0200
+
+    data file containing the last column has been added
+
+commit 4c2ec1f94f33819d051fd44af2365c0bfc407298
+Author: Georgio Sayegh <mightyg@Georgios-MacBook-Pro.local>
+Date:   Wed Mar 14 21:22:02 2018 +0200
+
+    data file containing the first column has been added
+
+commit fbe560ffd8cd479f7d0128e511e819543695f31f
+Author: Georgio Sayegh <mightyg@Georgios-MacBook-Pro.local>
+Date:   Wed Mar 14 20:47:25 2018 +0200
+
+    statistics data have been added
