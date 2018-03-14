@@ -1,0 +1,3 @@
+alias gpush = 'git push -u origin Georgio'
+alias desktop = 'cd ~/Desktop'
+alias sbashrc = 'source ~/.bashrc'
