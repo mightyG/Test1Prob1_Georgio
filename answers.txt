@@ -1,0 +1,17 @@
+1) cd ~/Desktop/TestProb1_Georgio
+   git init
+
+4)
+vi statistics.dat
+:vsplit 
+ctrl+w+w is used to navigate between the windows
+In the first window in the command mode: :e firstcolumn.dat
+Then move to the second window
+With the cursor being on the first character press crtl+v to select it and then shift+G to select the first character of every row in the first column
+Then continue selecting the entire first column
+Press y to yank (copy) the first column
+Move to the first column and paste by pressing p
+We save the first file using :w
+We quite both files using :q for each
+We add our modifications using: $git add .
+We commit our modifications using: $git commit -m "data file of first column added"
